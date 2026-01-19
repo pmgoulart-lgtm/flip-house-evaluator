@@ -82,7 +82,6 @@ base_params = dict(
     prudencia_venda=prudencia_venda,
     margem_alvo=margem_alvo,
     abs_meses=abs_meses,
-    obra_level=renovacao,
 )
 
 bc_inicial = calc_business_case(
